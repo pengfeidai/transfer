@@ -1,0 +1,15 @@
+{
+  "name": "transfer",
+  "version": "1.0.0",
+  "description": "transfer script",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
